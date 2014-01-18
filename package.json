@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Avnerus/uzumuzu-game",
   "devDependencies": {
-    "uzumuzu-engine": "git+https://github.com/Avnerus/uzumuzu-engine.git"
+    "uzumuzu-engine": "git+https://github.com/Avnerus/uzumuzu-engine.git",
+    "voxel-engine": "git+https://github.com/Avnerus/voxel-engine.git"
   }
 }
