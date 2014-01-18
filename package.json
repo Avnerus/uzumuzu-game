@@ -1,0 +1,22 @@
+{
+  "name": "uzumuzu-game",
+  "version": "0.0.0",
+  "description": "uzumuzu-game ============",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Avnerus/uzumuzu-game"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/Avnerus/uzumuzu-game/issues"
+  },
+  "homepage": "https://github.com/Avnerus/uzumuzu-game",
+  "devDependencies": {
+    "uzumuzu-engine": "git+https://github.com/Avnerus/uzumuzu-engine.git"
+  }
+}
